@@ -3,6 +3,7 @@ from .models import UserProfile
 from .forms import PostForm
 from django.shortcuts import get_object_or_404
 
+#hello this is demo project
 
 # Create your views here.
 # def index(request):
